@@ -1,0 +1,65 @@
+`CatalogView.swift`'te iki yerde kapak görseli ekleyelim — kart ve detay sheet:
+
+```swift
+// ESKİ (CatalogBookCard içinde):
+RoundedRectangle(cornerRadius: 8)
+    .fill(Color.aaGoldBg)
+    .frame(width: 52, height: 52)
+    .overlay(
+        Image(systemName: "headphones")
+            .font(.system(size: 22))
+            .foregroundColor(Color.aaGold)
+    )
+
+// YENİ:
+AsyncImage(url: URL(string: book.coverURL ?? "")) { phase in
+    if let image = phase.image {
+        image.resizable().scaledToFill()
+            .frame(width: 52, height: 52)
+            .clipShape(RoundedRectangle(cornerRadius: 8))
+    } else {
+        RoundedRectangle(cornerRadius: 8)
+            .fill(Color.aaGoldBg)
+            .frame(width: 52, height: 52)
+            .overlay(
+                Image(systemName: "headphones")
+                    .font(.system(size: 22))
+                    .foregroundColor(Color.aaGold)
+            )
+    }
+}
+.frame(width: 52, height: 52)
+```
+
+```swift
+// ESKİ (CatalogBookDetailView içinde):
+RoundedRectangle(cornerRadius: 16)
+    .fill(Color.aaGoldBg)
+    .frame(width: 120, height: 120)
+    .overlay(
+        Image(systemName: "headphones")
+            .font(.system(size: 48))
+            .foregroundColor(Color.aaGold)
+    )
+    .padding(.top, 8)
+
+// YENİ:
+AsyncImage(url: URL(string: book.coverURL ?? "")) { phase in
+    if let image = phase.image {
+        image.resizable().scaledToFill()
+            .frame(width: 120, height: 120)
+            .clipShape(RoundedRectangle(cornerRadius: 16))
+    } else {
+        RoundedRectangle(cornerRadius: 16)
+            .fill(Color.aaGoldBg)
+            .frame(width: 120, height: 120)
+            .overlay(
+                Image(systemName: "headphones")
+                    .font(.system(size: 48))
+                    .foregroundColor(Color.aaGold)
+            )
+    }
+}
+.frame(width: 120, height: 120)
+.padding(.top, 8)
+```
