@@ -1,0 +1,17 @@
+{
+  "version": 1,
+  "books": [
+    {
+      "id": "kisa-hikaye-ornek",
+      "title": "Örnek Kısa Hikaye",
+      "author": "Anonim",
+      "description": "Bu bir örnek telifsiz sesli kitaptır.",
+      "duration": 3600,
+      "fileURL": "https://archive.org/download/ornek/ornek.m4b",
+      "coverURL": null,
+      "language": "tr",
+      "tags": ["hikaye", "telif-dışı"],
+      "fileSize": 52000000
+    }
+  ]
+}
