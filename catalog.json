@@ -1,18 +1,18 @@
 {
   "version": 2,
   "books": [
-    {
-      "id": "kisa-hikaye-ornek",
-      "title": "Örnek Kısa Hikaye",
-      "author": "Anonim",
-      "description": "Bu bir örnek telifsiz sesli kitaptır.",
-      "duration": 3600,
-      "fileURL": "https://archive.org/download/ornek/ornek.m4b",
-      "coverURL": null,
-      "language": "tr",
-      "tags": ["hikaye", "telif-dışı"],
-      "fileSize": 5200
-    },
+   {
+  "id": "art-of-war",
+  "title": "The Art of War",
+  "author": "Sun Tzu",
+  "description": "A Chinese military treatise written during the 6th century BC by Sun Tzu. One of the oldest and most famous studies of strategy.",
+  "duration": 4330,
+  "fileURL": "https://archive.org/download/art_of_war_librivox/art_of_war_librivox_64kb_m4b.m4b",
+  "coverURL": null,
+  "language": "en",
+  "tags": ["classic", "strategy", "public-domain"],
+  "fileSize": 17000000
+},
     {
       "id": "ikinci-kitap",
       "title": "İkinci Kitap Adı",
