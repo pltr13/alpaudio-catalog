@@ -1,29 +1,53 @@
 {
   "version": 2,
   "books": [
-   {
-  "id": "art-of-war",
-  "title": "The Art of War",
-  "author": "Sun Tzu",
-  "description": "A Chinese military treatise written during the 6th century BC by Sun Tzu. One of the oldest and most famous studies of strategy.",
-  "duration": 4330,
-  "fileURL": "https://archive.org/download/art_of_war_librivox/art_of_war_librivox_64kb_m4b.m4b",
-  "coverURL": null,
-  "language": "en",
-  "tags": ["classic", "strategy", "public-domain"],
-  "fileSize": 17000000
-},
     {
-      "id": "ikinci-kitap",
-      "title": "İkinci Kitap Adı",
-      "author": "Yazar Adı",
-      "description": "Kitap açıklaması buraya.",
-      "duration": 7200,
-      "fileURL": "https://archive.org/download/ikinci/ikinci.m4b",
-      "coverURL": null,
-      "language": "tr",
-      "tags": ["roman", "telif-dışı"],
-      "fileSize": 10400
+      "id": "art-of-war",
+      "title": "The Art of War",
+      "author": "Sun Tzu",
+      "description": "A Chinese military treatise written during the 6th century BC by Sun Tzu. One of the oldest and most famous studies of strategy.",
+      "duration": 3780,
+      "fileURL": "https://archive.org/download/art_of_war_librivox/ArtOfWar-64kb_librivox.m4b",
+      "coverURL": "https://archive.org/services/img/art_of_war_librivox",
+      "language": "en",
+      "tags": ["classic", "strategy", "public-domain"],
+      "fileSize": 17000000
+    },
+    {
+      "id": "alice-in-wonderland",
+      "title": "Alice's Adventures in Wonderland",
+      "author": "Lewis Carroll",
+      "description": "A children's classic by Lewis Carroll. Alice follows a rabbit down a hole into a fantastical world filled with peculiar creatures and adventures.",
+      "duration": 10731,
+      "fileURL": "https://archive.org/download/alice_in_wonderland_librivox/AliceInWonderland_librivox.m4b",
+      "coverURL": "https://archive.org/services/img/alice_in_wonderland_librivox",
+      "language": "en",
+      "tags": ["classic", "children", "fantasy", "public-domain"],
+      "fileSize": 84000000
+    },
+    {
+      "id": "dracula",
+      "title": "Dracula",
+      "author": "Bram Stoker",
+      "description": "The classic vampire story by Bram Stoker. Count Dracula attempts to move from Transylvania to England, and the battle between good and evil begins.",
+      "duration": 59469,
+      "fileURL": "https://archive.org/download/dracula_librivox/DraculaStoker_64kb_librivox.m4b",
+      "coverURL": "https://archive.org/services/img/dracula_librivox",
+      "language": "en",
+      "tags": ["classic", "horror", "gothic", "public-domain"],
+      "fileSize": 595000000
+    },
+    {
+      "id": "peter-pan",
+      "title": "Peter Pan",
+      "author": "J. M. Barrie",
+      "description": "The well-loved story of three children and their adventures in Neverland with the boy who refuses to grow up.",
+      "duration": 18000,
+      "fileURL": "https://archive.org/download/peter_pan_0707_librivox/PeterPan_librivox.m4b",
+      "coverURL": "https://archive.org/services/img/peter_pan_0707_librivox",
+      "language": "en",
+      "tags": ["classic", "children", "fantasy", "adventure", "public-domain"],
+      "fileSize": 139000000
     }
   ]
 }
