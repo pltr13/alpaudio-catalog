@@ -54,12 +54,12 @@
       "title": "The Adventures of Sherlock Holmes",
       "author": "Sir Arthur Conan Doyle",
       "description": "The Adventures of Sherlock Holmes is a collection of twelve stories by Arthur Conan Doyle, featuring his famous detective. They were originally published in the Strand Magazine from July 1891 to June 1892.",
-      "duration": 18000,
+      "duration": 37080,
       "fileURL": "https://archive.org/download/adventures_holmes/Adventures%20of%20Sherlock%20Holmes_librivox.m4b",
       "coverURL": "https://archive.org/download/adventures_holmes/Adventures_of_Sherlock_Holmes_1403.jpg",
       "language": "en",
       "tags": ["classic", "children", "fantasy", "adventure", "public-domain"],
-      "fileSize": 139000000
+      "fileSize": 282000000
     },   
     
   ]
