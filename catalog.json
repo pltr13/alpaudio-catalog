@@ -50,15 +50,17 @@
       "fileSize": 139000000
     },
     {
-  "id": "unique_id",
-  "title": "Kitap Adı",
-  "author": "Yazar",
-  "duration": 3600,
-  "fileURL": "https://archive.org/.../file.mp3",
-  "description": "...",
-  "language": "tr",
-  "tags": ["klasik"]
-},
+      "id": "the-adventures-of-sherlock-holmes",
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Sir Arthur Conan Doyle",
+      "description": "The Adventures of Sherlock Holmes is a collection of twelve stories by Arthur Conan Doyle, featuring his famous detective. They were originally published in the Strand Magazine from July 1891 to June 1892.",
+      "duration": 18000,
+      "fileURL": "https://archive.org/download/adventures_holmes/Adventures%20of%20Sherlock%20Holmes_librivox.m4b",
+      "coverURL": "https://archive.org/download/adventures_holmes/Adventures_of_Sherlock_Holmes_1403.jpg",
+      "language": "en",
+      "tags": ["classic", "children", "fantasy", "adventure", "public-domain"],
+      "fileSize": 139000000
+    },   
     
   ]
 }
