@@ -61,6 +61,41 @@
       "tags": ["classic", "children", "fantasy", "adventure", "public-domain"],
       "fileSize": 282000000
     },   
-    
+    {
+      "id": "the-adventures-of-tom-sawyer-1",
+      "title": "The Adventures of Tom Sawyer 1",
+      "author": "Mark Twain",
+      "description": "Mark Twain's lively tale of the scrapes and adventures of boyhood is set in St. Petersburg, Missouri, where Tom Sawyer and his friend Huckleberry Finn have the kinds of adventures many boys can imagine: racing bugs during class, impressing girls, with fights and stunts in the schoolyard, getting lost in a cave, and playing pirates on the Mississippi river.",
+      "duration": 24372,
+      "fileURL": "https://archive.org/download/tom_sawyer_librivox/AdventuresOfTomSawyer-32kb-Part1_librivox.m4b",
+      "coverURL": "https://archive.org/download/tom_sawyer_librivox/tom_sawyer2.jpg",
+      "language": "en",
+      "tags": ["classic", "children", "fantasy", "adventure", "public-domain"],
+      "fileSize": 26000000
+    },   
+    {
+      "id": "the-adventures-of-tom-sawyer-2",
+      "title": "The Adventures of Tom Sawyer 2",
+      "author": "Mark Twain",
+      "description": "Mark Twain's lively tale of the scrapes and adventures of boyhood is set in St. Petersburg, Missouri, where Tom Sawyer and his friend Huckleberry Finn have the kinds of adventures many boys can imagine: racing bugs during class, impressing girls, with fights and stunts in the schoolyard, getting lost in a cave, and playing pirates on the Mississippi river.",
+      "duration": 24372,
+      "fileURL": "https://archive.org/download/tom_sawyer_librivox/AdventuresOfTomSawyer-32kb-Part2_librivox.m4b",
+      "coverURL": "https://archive.org/download/tom_sawyer_librivox/tom_sawyer2.jpg",
+      "language": "en",
+      "tags": ["classic", "children", "fantasy", "adventure", "public-domain"],
+      "fileSize": 23000000
+    },  
+    {
+      "id": "the-adventures-of-sherlock-holmes",
+      "title": "The Adventures of Sherlock Holmes",
+      "author": "Sir Arthur Conan Doyle",
+      "description": "The Adventures of Sherlock Holmes is a collection of twelve stories by Arthur Conan Doyle, featuring his famous detective. They were originally published in the Strand Magazine from July 1891 to June 1892.",
+      "duration": 37080,
+      "fileURL": "https://archive.org/download/adventures_holmes/Adventures%20of%20Sherlock%20Holmes_librivox.m4b",
+      "coverURL": "https://archive.org/download/adventures_holmes/Adventures_of_Sherlock_Holmes_1403.jpg",
+      "language": "en",
+      "tags": ["classic", "children", "fantasy", "adventure", "public-domain"],
+      "fileSize": 282000000
+    },   
   ]
 }
