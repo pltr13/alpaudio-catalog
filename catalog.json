@@ -221,13 +221,49 @@
       "id": "gulliver-s-travels",
       "title": "Gulliver's Travels",
       "author": "Jonathan Swift",
-      "description": "Gulliver's Travels (1726, amended 1735), officially Travels into Several Remote Nations of the World, is a novel by Jonathan Swift that is both a satire on human nature and a parody of the "travellers' tales" literary sub-genre. It is widely considered Swift's magnum opus and is his most celebrated work, as well as one of the indisputable classics of English literature.",
+      "description": "Gulliver's Travels (1726, amended 1735), officially Travels into Several Remote Nations of the World, is a novel by Jonathan Swift that is both a satire on human nature and a parody of the travellers tales literary sub-genre. It is widely considered Swift's magnum opus and is his most celebrated work, as well as one of the indisputable classics of English literature.",
       "duration": 40232,
       "fileURL": "https://archive.org/download/gulliver_ld_librivox/Gullivers_Travels_Swift_64kb_librivox.m4b",
       "coverURL": "https://archive.org/download/gulliver_ld_librivox/Gullivers_Travels_1008.jpg",
       "language": "en",
       "tags": ["classic", "parody", "literature", "public-domain"],
       "fileSize": 381200000
+    }, 
+     {
+      "id": "jane-eyre-1",
+      "title": "Jane Eyre 1",
+      "author": "Charlotte Brontë",
+      "description": "Jane Eyre is not your typical romance. It is a story of a woman who struggles with a world in which she doesn’t quite fit. Once finished with her schooling, and with no family that really cares of her she strikes out on her own as a governess. Jane Eyre searches for love, someone to care for her, and someone to care for, and finds it in unexpected places.",
+      "duration": 74196,
+      "fileURL": "https://archive.org/download/jane_eyre_librivox/JaneEyrePart1_librivox.m4b",
+      "coverURL": "https://archive.org/download/jane_eyre_librivox/Jane_Eyre_1108.jpg",
+      "language": "en",
+      "tags": ["classic", "audiobook", "romance", "public-domain"],
+      "fileSize": 194500000
+    }, 
+    {
+      "id": "jane-eyre-2",
+      "title": "Jane Eyre 2",
+      "author": "Charlotte Brontë",
+      "description": "Jane Eyre is not your typical romance. It is a story of a woman who struggles with a world in which she doesn’t quite fit. Once finished with her schooling, and with no family that really cares of her she strikes out on her own as a governess. Jane Eyre searches for love, someone to care for her, and someone to care for, and finds it in unexpected places.",
+      "duration": 74196,
+      "fileURL": "https://archive.org/download/jane_eyre_librivox/JaneEyrePart2_librivox.m4b",
+      "coverURL": "https://archive.org/download/jane_eyre_librivox/Jane_Eyre_1108.jpg",
+      "language": "en",
+      "tags": ["classic", "audiobook", "romance", "public-domain"],
+      "fileSize": 204800000
+    }, 
+    {
+      "id": "jane-eyre-3",
+      "title": "Jane Eyre 3",
+      "author": "Charlotte Brontë",
+      "description": "Jane Eyre is not your typical romance. It is a story of a woman who struggles with a world in which she doesn’t quite fit. Once finished with her schooling, and with no family that really cares of her she strikes out on her own as a governess. Jane Eyre searches for love, someone to care for her, and someone to care for, and finds it in unexpected places.",
+      "duration": 74196,
+      "fileURL": "https://archive.org/download/jane_eyre_librivox/JaneEyrePart3_librivox.m4b",
+      "coverURL": "https://archive.org/download/jane_eyre_librivox/Jane_Eyre_1108.jpg",
+      "language": "en",
+      "tags": ["classic", "audiobook", "romance", "public-domain"],
+      "fileSize": 165500000
     }, 
   ]
 }
