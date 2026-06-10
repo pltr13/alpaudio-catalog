@@ -193,5 +193,41 @@
       "tags": ["classic", "drama", "fantasy", "public-domain"],
       "fileSize": 83700000
     },   
+     {
+      "id": "heidi-1",
+      "title": "Heidi 1",
+      "author": "Johanna Spyri",
+      "description": "We meet Heidi when she is 5, led up the mountain by her aunt who has raised the orphan but must leave now for a position in Frankfurt. In a mountain cottage overlooking the valley is Heidi's grandfather, and there with him the girl's sweet, free nature expands with the vista. The author's voice is straightforward, and so is our reader's, with the child's wonder, devotion, and sometimes humorous good intentions. When Heidi is taken from the mountains and nearly doesn't make it back again, the most humorous as well as most heart-wringing scenes occur. All she learns during her absence from the mountain she brings back as seeds that will grow to benefit everyone around her.",
+      "duration": 35120,
+      "fileURL": "https://archive.org/download/heidi_solo_librivox/HeidiPart1_librivox.m4b",
+      "coverURL": "https://archive.org/download/heidi_solo_librivox/Heidi_1003.jpg",
+      "language": "en",
+      "tags": ["classic", "children", "literature", "public-domain"],
+      "fileSize": 134500000
+    },   
+     {
+      "id": "heidi-2",
+      "title": "Heidi 2",
+      "author": "Johanna Spyri",
+      "description": "We meet Heidi when she is 5, led up the mountain by her aunt who has raised the orphan but must leave now for a position in Frankfurt. In a mountain cottage overlooking the valley is Heidi's grandfather, and there with him the girl's sweet, free nature expands with the vista. The author's voice is straightforward, and so is our reader's, with the child's wonder, devotion, and sometimes humorous good intentions. When Heidi is taken from the mountains and nearly doesn't make it back again, the most humorous as well as most heart-wringing scenes occur. All she learns during her absence from the mountain she brings back as seeds that will grow to benefit everyone around her.",
+      "duration": 35120,
+      "fileURL": "https://archive.org/download/heidi_solo_librivox/HeidiPart2_librivox.m4b",
+      "coverURL": "https://archive.org/download/heidi_solo_librivox/Heidi_1003.jpg",
+      "language": "en",
+      "tags": ["classic", "children", "literature", "public-domain"],
+      "fileSize": 142100000
+    }, 
+      {
+      "id": "gulliver-s-travels",
+      "title": "Gulliver's Travels",
+      "author": "Jonathan Swift",
+      "description": "Gulliver's Travels (1726, amended 1735), officially Travels into Several Remote Nations of the World, is a novel by Jonathan Swift that is both a satire on human nature and a parody of the "travellers' tales" literary sub-genre. It is widely considered Swift's magnum opus and is his most celebrated work, as well as one of the indisputable classics of English literature.",
+      "duration": 40232,
+      "fileURL": "https://archive.org/download/gulliver_ld_librivox/Gullivers_Travels_Swift_64kb_librivox.m4b",
+      "coverURL": "https://archive.org/download/gulliver_ld_librivox/Gullivers_Travels_1008.jpg",
+      "language": "en",
+      "tags": ["classic", "parody", "literature", "public-domain"],
+      "fileSize": 381200000
+    }, 
   ]
 }
